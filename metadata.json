@@ -1,0 +1,6 @@
+{
+  "name": "T - REX Elite Hoops",
+  "description": "Premium 3D interactive basketball e-commerce experience with Bold Typography theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
