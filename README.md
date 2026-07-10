@@ -149,7 +149,11 @@ The experience is optimized through:
 ## 👨‍💻 Author
 
 **Keerthan C**
+
 B.E. — Artificial Intelligence & Machine Learning
+
+GitHub:
+https://github.com/keerthanc-25
 
 ---
 
