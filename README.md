@@ -156,7 +156,7 @@ GitHub:
 https://github.com/keerthanc-25
 
 Preview:(Only Laptop)
-https://ai-cricket-league-jhaz.onrender.com
+https://t-rex-elite-hoops-ofjqmhcdd-keerthanc-25s-projects.vercel.app
 
 ---
 
